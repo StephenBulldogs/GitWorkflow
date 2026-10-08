@@ -8,5 +8,6 @@
 |F|^|^|^|^|^|^|^|^|^|^|
 |G|^|^|^|^|^|^|^|^|^|^|
 | H | . | . | . | . | . | . | . | . | . | . |
-| I | . | . | . | . | . | . | . | . | . | . |
+| I | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: |
+| I | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: |
 |J|@|@|@|@|@|@|@|@|@|@|
