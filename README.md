@@ -7,7 +7,6 @@
 |E|^|^|^|^|^|^|^|^|^|^|
 |F|^|^|^|^|^|^|^|^|^|^|
 |G|^|^|^|^|^|^|^|^|^|^|
-| H | . | . | . | . | . | . | . | . | . | . |
-| I | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: |
+| H | :book: | :book: | :book: | :book: | :book: | :book: | :book: | :book: | :book: | :book: |
 | I | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: | :fire: |
 |J|@|@|@|@|@|@|@|@|@|@|
