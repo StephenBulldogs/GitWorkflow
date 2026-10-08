@@ -7,6 +7,6 @@
 | E | . | . | . | . | . | . | . | . | . | . |
 | F | . | . | . | . | . | . | . | . | . | . |
 | G | . | . | . | . | . | . | . | . | . | . |
-| H | . | . | . | . | . | . | . | . | . | . |
+| H | :sparkles: | :sparkles: | :sparkles: | :sparkles: | :sparkles: | :sparkles: | :sparkles: | :sparkles: | :sparkles: | :sparkles: |
 | I | . | . | . | . | . | . | . | . | . | . |
 | J | . | . | . | . | . | . | . | . | . | . |
